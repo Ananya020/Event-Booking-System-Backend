@@ -56,6 +56,7 @@ npx sequelize db:migrate
 ```sh
  npm run dev   # For development (using nodemon)
  npm start     # For production
+ node server.js
 ```
 The server will start on **http://localhost:5000**
 
